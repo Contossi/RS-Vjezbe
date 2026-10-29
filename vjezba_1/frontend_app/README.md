@@ -18,3 +18,5 @@ npm run preview  # posluzuje dist/ lokalno
 | Root Directory    | `vjezba_1/frontend_app`        |
 | Build Command     | `npm install && npm run build` |
 | Publish Directory | `dist`                         |
+
+Na Static Siteu dodaj environment varijablu `VITE_API_URL` s URL-om backenda (npr. `https://rs-backend-app.onrender.com`), pa pokreni novi deploy.
