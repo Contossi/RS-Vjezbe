@@ -1,0 +1,16 @@
+body {
+  margin: 0;
+  font-family: system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif;
+  background: #f7f7f9;
+  color: #222;
+}
+
+h1 {
+  color: #42b883;
+}
+
+input,
+button {
+  font: inherit;
+  padding: 6px 10px;
+}
