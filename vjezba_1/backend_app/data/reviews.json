@@ -1,0 +1,6 @@
+[
+  { "id": 1, "customer": "Ana", "rating": 5, "comment": "Brza dostava i sve je stiglo uredno zapakirano." },
+  { "id": 2, "customer": "Marko", "rating": 4, "comment": "Dobre cijene, ali izbor bi mogao biti veći." },
+  { "id": 3, "customer": "Petra", "rating": 5, "comment": "Podrška mi je odmah pomogla oko zamjene proizvoda." },
+  { "id": 4, "customer": "Ivan", "rating": 3, "comment": "Proizvod je u redu, no paket je kasnio dva dana." }
+]

@@ -1,0 +1,8 @@
+[
+  { "id": 1, "name": "Bežični miš", "price": 24.9, "category": "Periferija" },
+  { "id": 2, "name": "Mehanička tipkovnica", "price": 79.0, "category": "Periferija" },
+  { "id": 3, "name": "USB-C hub", "price": 34.5, "category": "Dodaci" },
+  { "id": 4, "name": "Stalak za laptop", "price": 29.99, "category": "Dodaci" },
+  { "id": 5, "name": "Slušalice s mikrofonom", "price": 59.0, "category": "Zvuk" },
+  { "id": 6, "name": "Web kamera 1080p", "price": 44.0, "category": "Video" }
+]

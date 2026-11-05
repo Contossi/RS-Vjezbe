@@ -1,6 +1,6 @@
 # Frontend App (Vue.js + Vite)
 
-Jednostavna Vue 3 aplikacija (to-do lista). Build generira staticni sadrzaj u `dist/` (`dist/index.html` + `dist/assets/`).
+Vue 3 webshop: proizvodi, recenzije i opcije dostave ucitavaju se s API-ja istovremeno i neovisno jedni o drugima, a kosarica se drzi u pregledniku. Build generira staticni sadrzaj u `dist/` (`dist/index.html` + `dist/assets/`).
 
 ## Lokalno
 

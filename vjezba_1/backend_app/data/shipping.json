@@ -1,0 +1,5 @@
+[
+  { "id": 1, "name": "Preuzimanje u trgovini", "price": 0, "days": 1 },
+  { "id": 2, "name": "Standardna dostava", "price": 3.5, "days": 4 },
+  { "id": 3, "name": "Brza dostava", "price": 7.9, "days": 1 }
+]
